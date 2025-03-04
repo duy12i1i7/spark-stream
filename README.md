@@ -1,4 +1,4 @@
-```markdown
+
 # Mục tiêu
 
 Trong bài viết này mình sẽ cài đặt Hadoop bản mới nhất (3.3.4 vào thời điểm viết bài này) trên 3 node Ubuntu 20.04 và OpenJdk11. Để thuận tiện cho việc setup và thử nghiệm, mình sẽ sử dụng Docker để giả lập 3 node này.
